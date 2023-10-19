@@ -13,7 +13,7 @@ import java.util.Objects;
  */
 @Entity
 public class Event {
-
+//test comment code
     @Id
     @GeneratedValue
     private int id;
